@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Катя Матя](https://up.htmlacademy.ru/nodejs/2/user/84950).
-* Наставник: `Неизвестно`.
+* Наставник: [Катя Матя](https://up.htmlacademy.ru/nodejs/2/user/84950).
 
 ---
 
